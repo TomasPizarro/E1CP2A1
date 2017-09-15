@@ -9,3 +9,79 @@
 	font-style: normal;
 	font-weight: 400;
 }
+
+.head {
+    width: 100%;
+    height: 130px;
+    background:#a62039;
+	}
+
+.main {
+    width: 100%;
+    height: 260px;
+    background:#008abb;
+	text-align:-webkit-center;
+	padding-top: 20px;
+	}
+
+.main-2 {
+    width: 100%;
+    height: 415px;
+    background:url(assets/images/cuzco2.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	}
+
+.footer {
+    width: 100%;
+    height: 300px;
+    background:white;
+	}
+
+#titulo {
+    font-family:El-RioLobo;
+    font-size:28px;
+    text-align: center;
+	color:#f7ae4c;
+	padding-top: 40px;
+	}
+
+#texto {
+    font-size:17px;
+    text-align: center;
+	color:white;
+	}
+	
+#titulo-2 {
+    font-family:El-RioLobo;
+    font-size:28px;
+    text-align: right;
+	color:#f7ae4c;
+	}
+
+#texto-2 {
+    font-size:17px;
+    text-align: right;
+	color:white;
+	}
+	
+#titulo-3 {
+    font-family:El-RioLobo;
+    font-size:48px;
+    margin-left:40%;
+	color:black;
+	margin-top:25px;
+	}
+
+#texto-3 {
+	font-family:El-RioLobo;
+    font-size:48px;
+	color:black;
+	margin-left:20%;
+	padding-top:5px;
+	}
+
+* {
+    margin:0px;
+    font-size: ;
+	}
